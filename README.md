@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @atimm
 - 👀 I’m interested in C++, the playdate console, and Concrete!
 - 🌱 I’m currently learning C and Lua!
-- 📫 How to reach me @beeptrain on discord
+- 📫 How to reach me: @beeptrain on discord
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: i do not know Python! C++ was my first language
 
